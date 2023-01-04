@@ -1,0 +1,19 @@
+id: AF52CA21A
+title: A Concise Supplication to the Most Noble Tārā
+type: translation
+pechas:
+- IEEE6E694
+- I90B35508
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:34:46.572609
+  last_modified_at: 2023-01-04 11:34:46.572614
+  collections:
+  - Chöying Tobden Dorje
+  - Works of Tibetan Masters
+alignment_to_base:
+  IEEE6E694/FFA4: E022
+  I90B35508/0085: E022
